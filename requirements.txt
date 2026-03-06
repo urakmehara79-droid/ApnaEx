@@ -2,6 +2,8 @@ pyrogram==2.0.106
 pyromod==1.5
 tgcrypto
 aiohttp
+gunicorn
+
 aiofiles
 requests
 hachoir
